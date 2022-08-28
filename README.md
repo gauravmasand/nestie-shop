@@ -1,5 +1,5 @@
 # nestie-shop
-This is a repository of a nestie shop app avaibale on Google Play Store.
+This is shanp shorts of nestie shop application avaibale on Google Play Store.
 Link to donwload the app:- https://play.google.com/store/apps/details?id=online.shop.catalog.shop
 
 Some of the screen shorts of the app:-
